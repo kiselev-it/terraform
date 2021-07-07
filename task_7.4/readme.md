@@ -1,6 +1,6 @@
-# 1
+# task 1
 Скрин в task_1.PNG
-# 2
+# task 2
 server.yaml и atlantis.yaml
-# 3
+# task 3
 main.tf
